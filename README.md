@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeportari&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeportari&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-![github-contribution-grid-snake](https://github.com/felipeportari/felipeportari/assets/124217908/495d8a92-f1eb-4bc0-97c7-c3a4e744d72a)
     
 ##
   
