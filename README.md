@@ -11,5 +11,5 @@
 <div style="display: flex; flex-direction: column;">
   <a href="https://github.com/felipeportari">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeportari&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeportari&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeportari&layout=compact&langs_count=8&theme=synthwave"/>
 </div>
