@@ -14,5 +14,3 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeportari&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-![snake gif](https://github.com/felipeportari/felipeportari/blob/output/github-contribution-grid-snake.gif)
