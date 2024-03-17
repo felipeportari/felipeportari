@@ -1,5 +1,8 @@
-### Olá! Eu sou o Felipe Portari😎
-- 📚 Atualmente estudando ADS💻
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=3000&pause=1000&color=77F733&center=true&vCenter=true&multiline=true&random=false&width=650&height=70&lines=Ol%C3%A1!+Eu+sou+Felipe+Portari;Atualmente+estudando+ADS)](https://git.io/typing-svg)
+
+</div>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-portari-915805244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-portari-915805244" height="30" width="40" /></a>
