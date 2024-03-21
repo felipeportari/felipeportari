@@ -9,8 +9,12 @@
        
   ![felipeportari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipeportari&theme=merko&hide_border=false)
   <br>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeportari&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeportari&layout=compact&langs_count=7&theme=merko"/>  
+  <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeportari&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> --->
+  <div height="180em"> 
+         
+  ![felipeportari's Stats](https://github-readme-stats.vercel.app/api?username=felipeportari&theme=merko&show_icons=true&hide_border=false&count_private=true)
+  <img height="195em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeportari&layout=compact&langs_count=7&theme=merko"/>  
+  </div>
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/portarin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-portari-915805244) 
   <picture align="center">
