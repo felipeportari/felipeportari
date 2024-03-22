@@ -6,6 +6,7 @@
 </div>
 
 <div align="center">
+  
   ![felipeportari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipeportari&theme=merko&hide_border=false)
   <br>
   
