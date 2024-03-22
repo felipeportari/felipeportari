@@ -1,5 +1,6 @@
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=3000&pause=1000&color=77F733&center=true&vCenter=true&multiline=true&random=false&width=650&height=70&lines=Ol%C3%A1!+Eu+sou+Felipe+Portari;Atualmente+estudando+ADS)](https://git.io/typing-svg)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
