@@ -9,7 +9,7 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipeportari&theme=merko&locale=pt_BR)
   <br>
-  
+
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeportari&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeportari&layout=compact&langs_count=7&theme=merko"/>  
   
